@@ -7,11 +7,11 @@
 # 1. Miembros del Equipo y Funciones
 Integrante	Papel en el Proyecto
 
-- Jason Alexander Molina Ortiz	Líder, Coordinación del Desarrollo del Proyecto
-- Franklin Esteban Pérez Fuentes	Desarrollo, Análisis y Búsqueda de CSVs
-- Alexis Alfonso Alvarenga Alvarenga	Coordinación, Desarrollo de Gráficos, Análisis
-- Alirio Josué Sibrián Martínez	Limpieza de Datos, Generación de Gráficos
-- Josías Baldomar López Aguirre	Búsqueda de CSVs, Limpieza de Datos, Análisis de Resultados
+- Jason Alexander Molina Ortiz:	Líder, Coordinación del Desarrollo del Proyecto
+- Franklin Esteban Pérez Fuentes:	Desarrollo completo, Análisis y Búsqueda de CSVs
+- Alexis Alfonso Alvarenga Alvarenga: Coordinación, Desarrollo de Gráficos, Análisis
+- Alirio Josué Sibrián Martínez:	Limpieza de Datos, Generación de Gráficos
+- Josías Baldomar López Aguirre:	Búsqueda de CSVs, Limpieza de Datos, Análisis de Resultados
 
 # 2. Descripción del Proyecto
 Este proyecto se centra en analizar los factores que impactan la longevidad en Guatemala y El Salvador, dos países centroamericanos. Utilizando herramientas estadísticas avanzadas y análisis de datos, buscamos identificar las variables clave que influyen en la esperanza de vida de sus poblaciones, tales como factores económicos, nutricionales y climáticos. A través del uso de Python y sus bibliotecas especializadas como Pandas, NumPy, Matplotlib y Seaborn, exploramos datos de fuentes confiables como la OMS y el Banco Mundial.
